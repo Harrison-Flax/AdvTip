@@ -10,7 +10,7 @@ This is a simple starter project to get me used to Android Studio, Kotlin, and i
 
 Feel free to look at the source code.
 
-Download the APK here: https://www.upload-apk.com/b316a4U74P26980
+Download the APK here: https://www.upload-apk.com/uqEtel8cMV2xvLj
 
 Interface:
 
