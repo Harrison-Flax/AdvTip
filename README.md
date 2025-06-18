@@ -9,9 +9,7 @@ Advanced Tip: A Better Tip Calculator
 
 This is a simple starter project to get me used to Android Studio, Kotlin, and integrating the Gemini API
 
-Feel free to look at the source code and download the APK from here: 
-
-https://www.upload-apk.com/FJLsCOu18PiME1w
+Feel free to look at the source code.
 
 Interface:
 
