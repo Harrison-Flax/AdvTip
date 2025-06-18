@@ -3,10 +3,9 @@ Advanced Tip: A Better Tip Calculator
 - Then select quality of service ranging from poor to excellent
 - Tip percentage is automatically calculated
 - Final bill amount is provided
-- Integration with Gemini API (1.5-flash)
-- Provides AI suggestions for tip percentage and amount
+- Integration with Gemini API (1.5-flash) for automated suggestions
 
-This is a simple starter project to get me used to Android Studio, Kotlin, and integrating the Gemini API
+This is a simple starter project to get me used to Android Studio, Kotlin, and integrating the Gemini API.
 
 Feel free to look at the source code.
 
